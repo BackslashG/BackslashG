@@ -1,17 +1,10 @@
-Hi, i'm BackslashG! I like playing Minecraft, developing in Batch, cats, and people.
-That's all you need to know about me!
+### Hi, I'm Backslash! 
+I really enjoy:
 
++ Gaming
++ Coding
++ Helluva Boss
++ The Owl House
++ Cats
 
-
-
-
-
-
-
-
-
-
-
-[//]: # "There is no easter eggs in here either. Sad"
-
-###### Also your not going to find easter eggs if you are looking.
+[![Discord Presence](https://lanyard.cnrad.dev/api/913622894603538432)](https://discord.com/users/913622894603538432)
