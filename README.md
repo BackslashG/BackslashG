@@ -1,11 +1,6 @@
 ### Hi, I'm Backslash! 
-I really enjoy:
+Silly little developer who stares at block game and Visual Studio for hours.
 
-+ Gaming
-+ Coding
-+ Helluva Boss
-+ The Owl House
-+ Cats
-+ Crashing Freebuilds :)
+(i hate css)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/913622894603538432)](https://discord.com/users/913622894603538432)
