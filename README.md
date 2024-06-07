@@ -1,3 +1,6 @@
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/BackslashG/millxismydaddy.pw/assets/86261944/65e17230-366e-48ea-861a-6a6785450d7b');]{x0000}$}
+```
 
 ### Silly little developer making stuff that no one will use
 [![Discord Presence](https://lanyard.cnrad.dev/api/894739362149961768?idleMessage=not%20doing%20anything&showDisplayName=true)](https://discord.com/users/894739362149961768)
@@ -20,6 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BackslashG&icon=0&color=0)](https://visitcount.itsvg.in)
-```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://yip.su/what-the-fart.png');]{x0000}$}
-```
