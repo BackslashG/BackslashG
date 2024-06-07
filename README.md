@@ -21,5 +21,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BackslashG&icon=0&color=0)](https://visitcount.itsvg.in)
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/BackslashG/millxismydaddy.pw/assets/86261944/119d8af0-63e8-4b3c-a8f1-3169c3d17971');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://yip.su/what-the-fart.png');]{x0000}$}
 ```
